@@ -6,9 +6,9 @@ color:
   saturation: 0.2149824381340295
   rhythmicContrast: 0.22061072778888047
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#0F499D'
+    - '#151515'
+    - '#979797'
+    - '#737373'
 name: Triangle Cars
