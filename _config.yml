@@ -1,0 +1,14 @@
+layout_spectrum: 0.04633346642367542
+typography_spectrum: 0.3960488142911345
+color:
+  brandStrength: 0.6476689914707094
+  lightness: 0.406166028464213
+  saturation: 0.2149824381340295
+  rhythmicContrast: 0.22061072778888047
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Triangle Cars
